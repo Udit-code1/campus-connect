@@ -1,7 +1,7 @@
 {
   "name": "campus-connect-backend",
   "version": "1.0.0",
-  "description": "Campus Connect â€” AI-powered college platform backend",
+  "description": "Campus Connect — AI-powered college platform backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
